@@ -1,2 +1,2 @@
 # finereport
-echarts地图插件
+帆软插件开发
